@@ -6,7 +6,7 @@ import seaborn as sns
 st.markdown("""
 <style>
 
-.e1fb0mya1 css-fblp2m ex0cdmw0{
+.css-fblp2m{
 visibility: hidden;
 }
 .css-1lsmgbg{
